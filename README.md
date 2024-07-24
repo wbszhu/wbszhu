@@ -20,7 +20,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-## Research Interests
+## Research interests
 - Epigenomics, especially 3D genomics
 - Single-cell sequencing technologies
 - Spatial genomics
@@ -37,5 +37,5 @@ My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbszhu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ## Contact me
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)]([https://x.com/LuZhang17593753])
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/LuZhang17593753)
 [![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://wbszhu.github.io/luzhang/)
