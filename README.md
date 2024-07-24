@@ -37,5 +37,5 @@ My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbszhu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ## Contact me
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)]([你的Twitter链接](https://x.com/LuZhang17593753))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)]([https://x.com/LuZhang17593753](https://x.com/LuZhang17593753))
 [![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://wbszhu.github.io/luzhang/)
