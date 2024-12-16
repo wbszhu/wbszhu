@@ -6,7 +6,7 @@
 - 🔬 I am a postdoc at Stanford University
 - 🧬 My current research focuses on epigenomics and single-cell omics
 - 🌱 I'm currently learning spatial genomics and deep learning techniques
-- 🔍 I'm actively seeking postdoctoral or research opportunities in bioinformatics and computational biology
+- 🔍 I'm actively seeking research opportunities in bioinformatics and computational biology
 - 📫 How to reach me: luzhang0828@gmail.com
 
 ## Skills
