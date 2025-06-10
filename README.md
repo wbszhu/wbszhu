@@ -39,4 +39,4 @@ My GitHub Stats
 -->
 ## Contact me
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/LuZhang17593753)
-[![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://wbszhu.github.io/luzhang/)
+[![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://zhanglu.me/)
